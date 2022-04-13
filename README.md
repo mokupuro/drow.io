@@ -2,4 +2,4 @@
 
 ## クラ勧SNS
 
-![kurakan drawio](https://user-images.githubusercontent.com/64648525/160798175-1d3352c5-ffc4-4ca1-a594-b94ec716b20f.png)
+![kurakan drawio (1)](https://user-images.githubusercontent.com/64648525/163194846-edf4d258-558b-467e-9def-0448b40a9842.png)
